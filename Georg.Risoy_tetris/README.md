@@ -1,7 +1,3 @@
-# **⚠️ IKKE FORK DETTE REPOET**  
-Hvis du forker dette repoet selv, vil du miste **15 poeng** fra din opprinnelige score.  
-
-<img align="right" width=200 src="./guide/pics/tetris-inaction.png">
 
 # **🕹️ Tetris**
 Surprise surprise, semesteroppgaven er å lage Tetris :)
@@ -73,13 +69,13 @@ Dette er en **individuell oppgave** som påvirker din endelige karakter. Vi tar 
 ❌ Kopiere kode direkte fra andre studenter  
 ❌ Kopiere kode direkte fra KI-verktøy  
 ❌ Dele en hel eller delvis løsning med andre  
-❌ Gjøre koden din offentlig tilgjengelig før kurset er over (eller helst aldri)  
+❌ Gjøre koden din offentlig tilgjengelig før kurset er over
 
 ---
 
 ## **🚨 Viktig: Opphavsrett og publisering**  
 
-Tetris er et **varemerke** eid av *The Tetris Company*. Det betyr at du **ikke** kan publisere eller distribuere din versjon offentlig. Spillet du lager er kun ment for **privat bruk og undervisning**.  
+Tetris er et **varemerke** eid av *The Tetris Company*. Spillet du lager er kun ment for **privat bruk og undervisning**.  
 
 Dersom du er interessert i historien bak Tetris, anbefaler vi [denne dokumentaren](https://www.youtube.com/watch?v=_fQtxKmgJC8) fra **Gaming Historian**.  
 
